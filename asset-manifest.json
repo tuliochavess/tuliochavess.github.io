@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.841eea00.chunk.css",
-    "main.js": "/static/js/main.83bc57a0.chunk.js",
-    "main.js.map": "/static/js/main.83bc57a0.chunk.js.map",
+    "main.css": "/static/css/main.1d411060.chunk.css",
+    "main.js": "/static/js/main.ebee8ae3.chunk.js",
+    "main.js.map": "/static/js/main.ebee8ae3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a32f18e0.js",
     "runtime-main.js.map": "/static/js/runtime-main.a32f18e0.js.map",
-    "static/js/2.53ba60c5.chunk.js": "/static/js/2.53ba60c5.chunk.js",
-    "static/js/2.53ba60c5.chunk.js.map": "/static/js/2.53ba60c5.chunk.js.map",
+    "static/js/2.55078f49.chunk.js": "/static/js/2.55078f49.chunk.js",
+    "static/js/2.55078f49.chunk.js.map": "/static/js/2.55078f49.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.841eea00.chunk.css.map": "/static/css/main.841eea00.chunk.css.map",
-    "static/js/2.53ba60c5.chunk.js.LICENSE.txt": "/static/js/2.53ba60c5.chunk.js.LICENSE.txt",
+    "static/css/main.1d411060.chunk.css.map": "/static/css/main.1d411060.chunk.css.map",
+    "static/js/2.55078f49.chunk.js.LICENSE.txt": "/static/js/2.55078f49.chunk.js.LICENSE.txt",
     "static/media/Sobre.module.css": "/static/media/USA.fd8dd81f.svg",
     "static/media/FrontEnd Developer Mobile.65d5271a.svg": "/static/media/FrontEnd Developer Mobile.65d5271a.svg",
     "static/media/FrontEnd Developer.60ec4ae0.svg": "/static/media/FrontEnd Developer.60ec4ae0.svg",
-    "static/media/animais.78e06b68.svg": "/static/media/animais.78e06b68.svg",
     "static/media/bonsplans.79d4c531.svg": "/static/media/bonsplans.79d4c531.svg",
     "static/media/buca.98642168.svg": "/static/media/buca.98642168.svg",
     "static/media/Historico.module.css": "/static/media/data.c8dc86ef.svg",
@@ -24,9 +23,7 @@
     "static/media/coresM.2e20ff3f.svg": "/static/media/coresM.2e20ff3f.svg",
     "static/media/css.be1aac07.svg": "/static/media/css.be1aac07.svg",
     "static/media/cssMobile.87ac34ad.svg": "/static/media/cssMobile.87ac34ad.svg",
-    "static/media/curriculo online.97e7df06.svg": "/static/media/curriculo online.97e7df06.svg",
-    "static/media/dogs.684936ed.svg": "/static/media/dogs.684936ed.svg",
-    "static/media/Footer.module.css": "/static/media/whatsapp-square.f5a21076.svg",
+    "static/media/Contato.module.css": "/static/media/whatsapp-square.f5a21076.svg",
     "static/media/evercode.10a5d5f6.svg": "/static/media/evercode.10a5d5f6.svg",
     "static/media/figma.55e915fb.svg": "/static/media/figma.55e915fb.svg",
     "static/media/figmaM.0011babb.svg": "/static/media/figmaM.0011babb.svg",
@@ -47,7 +44,6 @@
     "static/media/planetfone.13a0f815.svg": "/static/media/planetfone.13a0f815.svg",
     "static/media/quantum.2d5dd956.svg": "/static/media/quantum.2d5dd956.svg",
     "static/media/react.69f5f2c7.svg": "/static/media/react.69f5f2c7.svg",
-    "static/media/react1.1776216e.svg": "/static/media/react1.1776216e.svg",
     "static/media/reactMobile.ec89286a.svg": "/static/media/reactMobile.ec89286a.svg",
     "static/media/santo.fb4e88bc.svg": "/static/media/santo.fb4e88bc.svg",
     "static/media/symplicity.1cceb850.svg": "/static/media/symplicity.1cceb850.svg",
@@ -64,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a32f18e0.js",
-    "static/js/2.53ba60c5.chunk.js",
-    "static/css/main.841eea00.chunk.css",
-    "static/js/main.83bc57a0.chunk.js"
+    "static/js/2.55078f49.chunk.js",
+    "static/css/main.1d411060.chunk.css",
+    "static/js/main.ebee8ae3.chunk.js"
   ]
 }
